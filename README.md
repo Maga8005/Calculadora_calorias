@@ -9,7 +9,7 @@
 <ul>
   <li><strong>Variables:</strong> Se utilizan variables para almacenar los datos ingresados por el usuario, como edad, peso, altura y nivel de actividad física, así como también para almacenar los resultados de los cálculos.</li>
   <li><strong>Condicionales:</strong> Se emplean condicionales para determinar qué fórmula de cálculo de calorías utilizar dependiendo del género del usuario y para ajustar el resultado según su nivel de actividad física.</li>
-  <li><strong>Funciones básicas:</strong> Se definen funciones para realizar cálculos específicos, como el cálculo del índice de masa corporal (IMC) y la estimación del consumo calórico diario.</li>
+  <li><strong>Funciones básicas:</strong> Se definen funciones para realizar cálculos específicos, como el cálculo de calorías y para inicializar el switch al hacer click en los íconos correspondientes en el HTML.</li>
   <li><strong>Ciclos:</strong> Se utilizó un Switch para la funcionalidad de los botones más y menos, con el fin de sumar o restar una unidad en los campos de número</li>
 </ul>
 <h3>Funcionalidades:</h3>
